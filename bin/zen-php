@@ -1,7 +1,10 @@
+#! /usr/bin/env php
 <?php
 
 namespace Zen;
 
 include __DIR__ . '/../vendor/autoload.php';
 
-(new Zen)->fire();
+$zen = new Zen($argv[1]);
+
+$zen->print();
