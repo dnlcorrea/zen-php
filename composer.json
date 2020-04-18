@@ -1,0 +1,17 @@
+{
+    "name": "dnlcorrea/zen-php",
+    "description": "Zen-like coding for PHP Classes",
+    "type": "project",
+    "require": {
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniel Correa",
+            "email": "daniel@31solutions.com"
+        }
+    ]
+}
