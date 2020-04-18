@@ -19,6 +19,8 @@ class Zen {
 }
 ```
 
+![Demo](demo.gif "Demo")
+
 
 Don't forget to quote. Shells use semicolons.
 
